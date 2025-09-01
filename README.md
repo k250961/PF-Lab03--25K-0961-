@@ -1,5 +1,5 @@
 # PF-Lab03--25K-0961-
-My programming interest
+My **programming** _interest_
 
 # 👋 Hello, I'm Ahsan Abbasi  
 
@@ -18,4 +18,4 @@ I am a programmer and AI enthusiast with a strong interest in building intellige
 - Improving chatbot integrations with real-world use cases  
 
 ## 📫 Connect With Me  
-Feel free to reach out if you’d like to collaborate or share ideas!  
+***Feel free to reach out if you’d like to collaborate or share ideas!***  
